@@ -1,3 +1,3 @@
-class Atletas  {
+class Atletas{
     constructor()
 }
