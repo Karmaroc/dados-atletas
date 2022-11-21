@@ -11,6 +11,8 @@ Nome, Idade, Peso, Altura, Notas, Categoria, IMC e Média Válida.``
 
 ``Os organizadores da competição realizada durante o projeto anterior gostaram muito da sua solução proposta e do seu perfil de desenvolvimento. Com isso, eles resolveram fazer uma nova encomenda utilizando a linguagem JavaScript.``
 
+``Algumas regras:``
+
 + ``A média é calculada com base nas três notas do meio, desconsiderando a maior e menor nota.``
 
 + ``As categorias é expressa desta forma:``
